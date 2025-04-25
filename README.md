@@ -1,27 +1,27 @@
 # Scattering
 
-## 📺 To View
+## To View
 Open `index.html` in your browser.
 
 ---
 
-## ⚙️ To Change Variables
+## To Change Variables
 
 Edit `Scattering3.py`.
 
-### 🔢 Numerical Inputs:
+### Numerical Inputs:
 - `L` – Extension of the spatial grid  
 - `N` – Number of grid points  
 - `Tfinal` – Duration of the simulation  
 - `dt` – Time step size  
 
-### 🌊 Initial Gaussian Wave Packet:
+### Initial Gaussian Wave Packet:
 - `x0` – Mean position of the initial wave packet  
 - `p0` – Mean momentum of the initial wave packet  
 - `sigmaP` – Momentum width of the Gaussian wave packet  
 - `tau` – Time at which the Gaussian is narrowest (spatially)  
 
-### 🧱 Barrier Parameters:
+### Barrier Parameters:
 - `V0` – Height of the barrier (can be negative)  
 - `w` – Width of the barrier  
 - `s` – Smoothness parameter  
@@ -34,7 +34,7 @@ To change `V0` or `p0`, modify the arrays:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Run Python and shell script:
 
