@@ -36,7 +36,7 @@ To change `V0` or `p0`, modify the arrays:
 
 ## ▶️ How to Run
 
-Run the Python script:
+Run Python and shell script:
 
 ```bash
 python Scattering3.py
