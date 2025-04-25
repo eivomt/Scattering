@@ -40,5 +40,4 @@ Run the Python script:
 
 ```bash
 python Scattering3.py
-```bash
 ./make_video.sh
