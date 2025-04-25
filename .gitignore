@@ -1,0 +1,5 @@
+# macOS system files
+.DS_Store
+
+# Ignore all .pngs inside numbered folders in /png/
+png/*/*.png
